@@ -18,18 +18,15 @@ namespace Bingo.Console.Models
             Boards = new List<BingoBoard>();
         }
 
-        public void AddBoard(BingoBoard board)
+        public Game AddBoard(BingoBoard board)
         {
             Boards.Add(board);
+            return this;
         }
 
-        public void SetNumbers(IEnumerable<int> numbers)
+        public void SetNumbers(params int[] numbers)
         {
-            var enumerator = numbers.GetEnumerator();
-            while (enumerator.MoveNext())
-            {
-                numberList.Add(enumerator.Current);
-            }
+            numberList.AddRange(numbers);
         }
 
         public int GetNextNumber()

@@ -22,13 +22,7 @@ namespace Bingo.Console.Models
         private bool rowsCompleted;
         private bool columnsCompleted;
 
-        public void SetNumbers(params int[] numbers)
-        {
-            foreach (var item in numbers)
-            {
-                AddNumberToBoard(item);
-            }
-        }
+
 
         public bool BingoCompleted => bingoCompleted;
         public int BoardRowNumberCount { get; set; } = 5;
@@ -68,6 +62,26 @@ namespace Bingo.Console.Models
             counter++;
         }
 
+
+        public BingoBoard SetNumbers(params int[] numbers)
+        {
+            foreach (var item in numbers)
+            {
+                AddNumberToBoard(item);
+            }
+
+            return this;
+        }
+
+        public BingoBoard SetNumbers(IEnumerable<int> numbers)
+        {
+            foreach (var item in numbers)
+            {
+                AddNumberToBoard(item);
+            }
+
+            return this;
+        }
 
         public int CalculateScore()
         {
