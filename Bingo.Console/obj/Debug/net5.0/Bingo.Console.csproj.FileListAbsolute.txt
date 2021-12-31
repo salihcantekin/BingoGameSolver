@@ -1,0 +1,16 @@
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.csproj.AssemblyReference.cache
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.AssemblyInfoInputs.cache
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.AssemblyInfo.cs
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.csproj.CoreCompileInputs.cache
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\Bingo.Console.exe
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\Bingo.Console.deps.json
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\Bingo.Console.runtimeconfig.json
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\Bingo.Console.runtimeconfig.dev.json
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\Bingo.Console.dll
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\ref\Bingo.Console.dll
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\bin\Debug\net5.0\Bingo.Console.pdb
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.dll
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\ref\Bingo.Console.dll
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.pdb
+C:\Prj\Personal\BingoGame\Bingo\Bingo.Console\obj\Debug\net5.0\Bingo.Console.genruntimeconfig.cache
